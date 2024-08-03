@@ -1,2 +1,5 @@
-# Auto detect text files and perform LF normalization
+# Set default behavior to automatically normalize line endings.
 * text=auto
+
+# Specify that .vsconfig should always use LF line endings.
+.vsconfig text eol=lf
